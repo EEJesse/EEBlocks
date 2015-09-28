@@ -1,2 +1,3 @@
-# EEBlocks
-Everybody Edits Pack
+# Everybody Edits Blocks
+
+By: ZeldaXD & Jesse
